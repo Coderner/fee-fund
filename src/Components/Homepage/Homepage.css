@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.mainimage{
+    width:60%;
+    margin-top:0;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+    display:flex;
+}
+
+.text{
+    width:100%;
+    padding:10% 0;
+    background-image:url("../Images/frst.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+}
+
+.text h1{
+    text-align: center;
+    margin: 4% 0;
+    font-weight: bolder;
+    font-size: 48px;
+    color:palevioletred;
+}
+
+.text h4{
+    text-align: center;
+    margin: 2% 0;
+    font-weight: bolder;
+    color:palevioletred;
+}
+
+.maintext{
+    text-align: center ;
+    color:palevioletred;
+    font-weight: bolder;
+}
+
+.joincommunity{
+    background-color: aliceblue;
+    padding:6.5%;
+    text-align: center;
+}
+
+h1,h2{
+    margin: 2%;
+}
+
+.register{
+    margin:3%;
+    width:35%;
+    height:60%;
+    background-color: palevioletred;
+    color:white;
+    border-radius: 2%;
+    border-width: 0;
+    padding:1%;
+}
+
+.sponsorimage{
+    height: 180px;
+    margin:1.5%;
+}
+
+.fund{
+    margin:.1% 2% 2% 2%;
+    width:25%;
+    height:60%;
+    background-color: palevioletred;
+    color:white;
+    border-radius: 2%;
+    border-color: white;
+    padding:1.2%;
+}

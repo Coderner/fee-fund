@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.signupform{
+    font-family: "Varela Round";
+    text-align: center;
+    margin: 8.5% 30%;
+    background-color: whitesmoke;;
+}
+
+.registerheading{
+    font-weight: bolder;
+    margin-top: 4%;
+}
+
+.field{
+    margin:1.5% 4%;
+    text-align: left;
+}
+
+.fieldname{
+    margin-right: 20%;
+}
+
+.inputfield{
+    width:50%;
+}
+
+.register{
+    margin:3%;
+    width:70%;
+    height:60%;
+    background-color: palevioletred;
+    color:white;
+    border-radius: 2%;
+    border-width: 0;
+    padding:1%;
+}
